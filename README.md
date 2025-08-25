@@ -33,11 +33,12 @@ You can download the datasets from their official sources:
 
 | Dataset        | Demo Video |
 |----------------|------------|
-| **UCSD Ped2**  | ![Ped2 Demo](assets/demo_ped2.gif) |
-| **CUHK Avenue**| ![Avenue Demo](assets/demo_avenue.gif) |
-| **ShanghaiTech** | ![ShanghaiTech Demo](assets/demo_shanghai.gif) |
+| **UCSD Ped2**  | <img src="assets/demo_ped2.gif" width="320"/> |
+| **CUHK Avenue**| <img src="assets/demo_avenue.gif" width="320"/> |
+| **ShanghaiTech** | <img src="assets/demo_shanghai.gif" width="320"/> |
 
 ---
+
 
 ## 📦 Pre-Processed Files
 
