@@ -28,6 +28,17 @@ You can download the datasets from their official sources:
 
 ---
 
+
+## 📹 Video Demo
+
+| Dataset        | Demo Video |
+|----------------|------------|
+| **UCSD Ped2**  | ![Ped2 Demo](assets/demo_ped2.gif) |
+| **CUHK Avenue**| ![Avenue Demo](assets/demo_avenue.gif) |
+| **ShanghaiTech** | ![ShanghaiTech Demo](assets/demo_shanghai.gif) |
+
+---
+
 ## 📦 Pre-Processed Files
 
 > *(Code Will be available after the paper is published)*
